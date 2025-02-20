@@ -4,6 +4,8 @@ A arquitetura hexagonal, ou "Ports and Adapters", foi criada por **Alistair Cock
 
 ## 🧱 O que é a Arquitetura Hexagonal?
 
+![Arquitetura](arquitetura-hexagonal.png)
+
 A ideia principal é dividir a aplicação em três camadas principais:
 
 1️⃣ **Core (ou Domain)**: 
