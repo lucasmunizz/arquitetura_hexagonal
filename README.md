@@ -20,7 +20,7 @@ A ideia principal é dividir a aplicação em três camadas principais:
    - Implementações das interfaces das Ports.
    - Exemplo: Controladores HTTP, implementações de persistência (JPA, JDBC), APIs externas.
 
-✨ O segredo aqui é que o core não sabe nada sobre o mundo externo — apenas define o que precisa para funcionar.
+✨ O segredo aqui é que o core não sabe nada sobre o mundo externo — apenas define o que precisa para funcionar, muito ligado com o princípio de Inversão de Dependências do SOLID (DIP)
 
 ---
 
